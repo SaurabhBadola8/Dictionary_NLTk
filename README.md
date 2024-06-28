@@ -1,6 +1,6 @@
-##Purpose:
+Purpose:
 
-#The project aims to provide definitions, synonyms, and antonyms for a given word using the NLTK (Natural Language Toolkit) library's WordNet module.
+The project aims to provide definitions, synonyms, and antonyms for a given word using the NLTK (Natural Language Toolkit) library's WordNet module.
 Components:
 
 Class Dictionar: This class encapsulates methods to fetch and display information about a word.
