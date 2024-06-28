@@ -1,5 +1,6 @@
-Purpose:
+![Screenshot 2024-06-28 160255](https://github.com/SaurabhBadola8/Dictionary_NLTk/assets/173368852/bdad3643-c1b0-4829-b312-1d9ccbedf2cf)
 
+Purpose:
 The project aims to provide definitions, synonyms, and antonyms for a given word using the NLTK (Natural Language Toolkit) library's WordNet module.
 Components:
 
